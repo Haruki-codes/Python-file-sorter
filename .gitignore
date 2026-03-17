@@ -1,0 +1,18 @@
+# Ignore generated folders
+Image/
+File/
+Movie/
+Other/
+
+# Ignore images and documents
+*.jpg
+*.png
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+
+# System files
+desktop.ini
+.DS_Store
